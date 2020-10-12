@@ -1,1 +1,1 @@
-hello-word.py
+print(hello-word.py)
