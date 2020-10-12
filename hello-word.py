@@ -8,4 +8,5 @@ print(hello-word.pyipeline {
             }
         }
     }
-})
+}
+)
